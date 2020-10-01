@@ -1,6 +1,6 @@
 # falco-website
 
-## Contributing logos
+## Logo Contribution
 
 In order to contribute a logo you must meet one of the following adopter types.
 
@@ -16,7 +16,7 @@ Then open a pull request to this repository that contains:
 
 We try not to duplicate logos, and would prefer more encompassing logos over granular logos. For instance we prefer AWS over AWS EC2.
 
-## Prerequisites
+## What are the Prerequisites?
 
 To build this website you need:
 
@@ -40,7 +40,7 @@ make serve
 
 You can access your local website on http://localhost:1313
 
-## Translations
+## Translations:
 
 ### Chinese
 
